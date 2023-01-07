@@ -1,4 +1,4 @@
-# people-Detaction
+# Object-Detaction
 This Code is written by Python Source Codeng.
 
 Vurtual Lab set-up eqipment:
