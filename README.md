@@ -6,4 +6,4 @@ Vurtual Lab set-up eqipment:
 2. pip install Face-detaction
 3. pip install cv2
 4. pip install numpy
-and source code related setup reqipment.txt
+and source code related setup requirements.txt
